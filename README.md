@@ -1,10 +1,10 @@
-E-Commerce Website (MERN Stack)
+## E-Commerce Website (MERN Stack)
 
 This is a fully functional E-commerce web application built using the MERN stack, featuring user authentication, product browsing, cart management, and secure payments.
 
 ⸻
 
-Features
+# Features
 
 ✅ User authentication (Login/Signup)
 ✅ Product listing with detailed pages
@@ -15,7 +15,7 @@ Features
 
 ⸻
 
-Tech Stack
+# Tech Stack
 	•	MongoDB – Database for storing user data, products, and orders
 	•	Express.js – Backend framework for server-side logic
 	•	React.js – Frontend library for a dynamic UI
@@ -23,7 +23,7 @@ Tech Stack
 
 ⸻
 
-Installation
+# Installation
 	1.	Clone the repository:
 
 git clone https://github.com/your-username/ecommerce-website.git
