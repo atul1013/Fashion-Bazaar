@@ -62,8 +62,3 @@ Usage
 	•	Browse products and add items to the cart
 	•	Proceed to checkout for secure payments
 	•	Admin users can manage products and orders
-
-
-Contact
-
-For questions or feedback, feel free to reach out at [your email or social link].
