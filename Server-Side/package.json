@@ -1,0 +1,23 @@
+{
+  "name": "fashion-bazaar-server",
+  "version": "1.0.0",
+  "description": "Backend server for Fashion-Bazaar MERN project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node seeder.js"
+  },
+  "keywords": [],
+  "author": "Atul",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
